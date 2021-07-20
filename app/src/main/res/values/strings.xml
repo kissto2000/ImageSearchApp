@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">ImageSearchApp</string>
+
+    <string name="search_empty_msg">검색 결과가 없습니다.</string>
+</resources>
